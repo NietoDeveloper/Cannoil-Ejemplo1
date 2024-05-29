@@ -5,7 +5,7 @@ function header() {
         <h1>Cannoil</h1>
       
     </div>
-  )
+  );
 }
 
 export default header;
