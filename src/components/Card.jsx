@@ -1,3 +1,4 @@
+import "./Card.css";
 function Card() {
     return (
       <div>
@@ -6,5 +7,5 @@ function Card() {
     );
   }
   
-  export default Card;
+export default Card;
   
