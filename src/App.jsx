@@ -5,7 +5,7 @@ import HEADER from "./components/Card.jsx";
 function App() {
   return (
     <div className="App">
-      <h1>caca</h1>
+      <h1>Cannoil</h1>
       <Card/>
     </div>
   );

@@ -1,5 +1,9 @@
 function Card() {
-  return <div>esternocleidomastoideo</div>;
+  return (
+    <div>
+      <h2>Aceite De Cannabis</h2>
+    </div>
+  );
 }
 
 export default Card;
