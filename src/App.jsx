@@ -6,9 +6,9 @@ import Header from "./components/Header.jsx";
 function App() {
   return (
     <div className="App">
-      <h3>Tienda A Domicilio</h3>
-      <h3>Colombia</h3>
+      <p>Colombia</p>
       <Header/>
+      <h3>Tienda  a Domicilio</h3>
       <Card/>
     </div>
   );

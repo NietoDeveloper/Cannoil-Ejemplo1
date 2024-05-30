@@ -1,7 +1,7 @@
 function Header() {
   return (
     <div>
-      <h1>Cannoil</h1>
+      <h1>CannOil</h1>
     </div>
   );
 }
