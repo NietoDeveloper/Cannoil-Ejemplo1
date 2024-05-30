@@ -12,6 +12,6 @@ function App() {
       <Card/>
     </div>
   );
-}º
+}
 
 export default App;
