@@ -1,17 +1,31 @@
-import "./App.css";
-import Card from "./components/Card.jsx";
-import Header from "./components/Header.jsx";
+import './App.css';
+import Navbar from './Components/Navbar/Navbar';
+import NavbarMobile from './Components/NavbarMobile/NavbarMobile';
+import Footer from './Components/Footer/Footer';
+import Landing from './Components/Landing/Landing';
+import { Outlet } from 'react-router-dom';
+import { useState, useEffect } from 'react';
 
+const App = () => {
+  const [isLoading, setIsLoading] = useState(true);
 
-function App() {
+  useEffect(() => {
+    setTimeout(() => {
+      setIsLoading(false);
+    }, 6000);
+  }, []);
+
+  if (isLoading) {
+    return <Landing />;
+  }
   return (
-    <div className="App">
-      <p>Colombia</p>
-      <Header/>
-      <h3>Tienda a Domicilio</h3>
-      <Card/>
-    </div>
-  );
+    <main className='main-app'>
+      <NavbarMobile />
+      <Navbar />
+      <Outlet />
+      <Footer />
+    </main>
+  )
 }
 
-export default App;
+export default App

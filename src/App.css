@@ -1,42 +1,55 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+* {
+  /* css reset */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  /* global styles  */
+  scroll-behavior: smooth;
+  font-style: normal;
+  height:min-content;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+
+  /* variables */
+
+  /* colors */
+  --red-color-one: #980D1C;
+  --red-color-two: #841f29;
+  --red-color-three: #BC1021;
+  --yellow-color-one: #eed29beb;
+  --yellow-color-two: #eed29ba8;
+  --white-color: whitesmoke;
+  --black-color: #100607;
+  --gray-color: rgba(245, 245, 245, 0.451);
+
+  /* fonts */
+  --impact-font: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+body {
+  background-color: var(--black-color);
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
+.main-app {
+	-webkit-animation: main-fade-in 1s linear both;
+	        animation: main-fade-in 1s linear both;
+}
+
+@-webkit-keyframes main-fade-in {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
   }
-  to {
-    transform: rotate(360deg);
+  @keyframes main-fade-in {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
   }
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
-}
-
-.card {
-  padding: 2em;
-}
-
-.read-the-docs {
-  color: #888;
-}
