@@ -45,7 +45,7 @@
 }
 
 .about {
-  background-color: var(--yellow-color-one);
+  background-color: var(--white-color);
   border-left-color: var(--red-color-one);
   border-bottom-color: var(--red-color-one);
   border-top-color: var(--red-color-two);

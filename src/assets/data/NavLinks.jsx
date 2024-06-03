@@ -1,17 +1,17 @@
 export const Navlinks = [
     {
         id: 1,
-        title: 'Work',
+        title: 'Productos',
         link: '#Work'
     },
     {
         id: 2,
-        title: 'Tech',
+        title: 'Compra',
         link: '#Tech'
     },
     {
         id: 3,
-        title: 'Contact',
+        title: 'Envio',
         link: '#contact'
     }
 ]

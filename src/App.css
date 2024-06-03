@@ -15,13 +15,13 @@
   /* variables */
 
   /* colors */
-  --red-color-one: #980D1C;
-  --red-color-two: #841f29;
-  --red-color-three: #BC1021;
-  --yellow-color-one: #eed29beb;
-  --yellow-color-two: #eed29ba8;
-  --white-color: rgb(245, 234, 234);
-  --black-color: #100607;
+  --red-color-one: #33ff00;
+  --red-color-two: #33ff00;
+  --red-color-three: #33ff00;
+  --yellow-color-one: #9e9407;
+  --yellow-color-two: #f8e800;
+  --white-color: rgb(255, 255, 255);
+  --black-color: #035200;
   --gray-color: rgba(245, 245, 245, 0.451);
 
   /* fonts */
