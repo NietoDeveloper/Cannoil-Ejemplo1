@@ -7,11 +7,11 @@ const Work = () => {
     return (
         <main className='work-main pt-5 md:pt-10 pb-10 border-t-[3px] md:border-t-0'>
             <header id='Work' className='flex flex-col items-center'>
-                <h1 className='work-header text-3xl'>Work</h1>
+                <h1 className='work-header text-3xl'>Productos</h1>
             </header>
             <section>
                 {/* small */}
-                <h2 className='projects-header md:hidden text-center text-2xl pb-1'>Freelance Projects</h2>
+                <h2 className='projects-header md:hidden text-center text-2xl pb-1'>Aceites en concentracion del 5% 10% 15%</h2>
                 <main className='md:hidden flex flex-row justify-evenly w-full pb-5 text-sm md:text-[.6rem]'>
                     <article className='work-container text-center w-5/12'>
                         {FreeScreenshots.map((item, index) => index % 2 === 0 && (
@@ -44,7 +44,7 @@ const Work = () => {
                         ))}
                     </article>
                 </main>
-                <h2 className='projects-header md:hidden text-center pb-1 text-2xl'>Bootcamp Projects</h2>
+                <h2 className='projects-header md:hidden text-center pb-1 text-2xl'>Aceites en concentracion del 20% 30% 40%</h2>
                 <main className='md:hidden flex flex-row justify-evenly w-full text-sm md:text-[.6rem]'>
                     <article className='work-container text-center w-5/12'>
                         {BootScreenshots.map((item, index) => index % 2 === 0 && (

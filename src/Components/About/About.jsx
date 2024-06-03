@@ -9,7 +9,7 @@ const About = () => {
                 <h2 className='description text-start py-1 text-3xl md:text-4xl'>Tienda On-Line</h2>
             </header>
             <article className="about flex justify-center items-center md:w-2/3 h-fit md:h-full p-8 md:border-l-[4px] border-b-[3px] md:border-b-0 border-t-[2px] md:border-t-0 w-full lg:p-16  text-md md:text-xl">
-                <h3 className='about-text'>Importador y Distribuidor;  De Aceites de extracto de cannabis, en varios porcentajes de concentrancion. Dedicados a tu salud y bienestar. 100% Naturales y fabricados con las mejores tecnicas, expertos y laboratorios en el campo. <h1><span className='kurzawa-text'>Envio Gratis*</span></h1></h3>
+                <h3 className='about-text'>Importador y Distribuidor;  De Aceites de extracto de cannabis, en varios porcentajes de concentrancion. Dedicados a tu salud y bienestar. 100% Naturales y fabricados con las mejores tecnicas, expertos y laboratorios en el campo. Aceites en concentracion del 5% 10% 15% 20% 30% y 40% <h1><span className='kurzawa-text'>Envio Gratis*</span></h1></h3>
             </article>
         </main>
     )
