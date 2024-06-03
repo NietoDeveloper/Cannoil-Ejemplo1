@@ -1,7 +1,7 @@
-import Kris from '/KrisScreenshot.png';
-import Ani from '/AniScreenshot.png';
-import Revival from '/RevivalScreenshot.png';
-import Audio from '/AudioScreenshot.png';
+import Alchemy1 from '/Alchemy-40.png';
+import Ani from '/Gorilla-40.png';
+import Revival from '/PlantOfLife-40-conCoco.png';
+import Audio from '/Swiss-cbd-40.png';
 import Grocery from '/GroceryStoreManagementSystem.png';
 import Movies from '/MovieProject.png';
 import WeatherDashboard from '/WeatherDashboard.png'
@@ -10,28 +10,28 @@ import Portfolio from '/Portfolio.png'
 export const FreeScreenshots = [
     {
         id: 1,
-        title: 'Kris Kurzawa Guitar',
-        image: Kris,
+        title: 'Alchemy CBD 40% ',
+        image: Alchemy1,
         gitLink: 'https://github.com/KKurzawa/kris-kurzawa-guitar',
         siteLink: 'https://kris-kurzawa-guitar.vercel.app/'
     },
     {
         id: 2,
-        title: 'Revival: Allman Bros Tribute',
+        title: 'Plant Of Life CBD 40% con Coco',
         image: Revival,
         gitLink: 'https://github.com/KKurzawa/revival-frontend2/tree/main',
         siteLink: 'https://www.revivalbanddetroit.com/'
     },
     {
         id: 3,
-        title: 'Audio Player',
+        title: 'Swiss CBD 40%',
         image: Audio,
         gitLink: 'https://github.com/KKurzawa/AudioPlayer',
         siteLink: 'https://audio-player-ten-eta.vercel.app/'
     },
     {
         id: 4,
-        title: 'Ani Transcriptions',
+        title: 'Gorilla CBD 40%',
         image: Ani,
         gitLink: 'https://github.com/KKurzawa/Ani-Difranco-Transcriptions',
         siteLink: 'https://anidifrancotranscriptions.vercel.app/'
