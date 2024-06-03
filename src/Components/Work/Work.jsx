@@ -79,7 +79,7 @@ const Work = () => {
                 </main>
             </section>
             {/* medium and large */}
-            <h2 className='projects-header hidden md:block text-center pb-3 text-2xl'>Freelance Projects</h2>
+            <h2 className='projects-header hidden md:block text-center pb-3 text-2xl'>Aceites en concentracion del 5% 10% 15%</h2>
             <main className='hidden md:flex justify-evenly pb-5 text-md lg:text-xl'>
                 {FreeScreenshots.map((item) => (
                     <article key={item.id} className='work-container flex flex-col justify-center items-center'>
@@ -95,7 +95,7 @@ const Work = () => {
                     </article>
                 ))}
             </main>
-            <h2 className='projects-header hidden md:block text-center pb-3 text-2xl'>Bootcamp Projects</h2>
+            <h2 className='projects-header hidden md:block text-center pb-3 text-2xl'>Aceites en concentracion del 20% 30% 40%</h2>
             <main className='hidden md:flex justify-evenly text-md lg:text-xl'>
                 {BootScreenshots.map((item) => (
                     <article key={item.id} className='work-container flex flex-col justify-center items-center'>
