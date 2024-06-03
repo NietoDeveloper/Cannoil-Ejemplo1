@@ -1,6 +1,6 @@
-import Swiss40 from '/Swiss-cbd-40.png';
-import Ani from '/Alchemy-40%.png';
-import Revival from '/Gorilla-cbd-40.png';
+import Kris from '/KrisScreenshot.png';
+import Ani from '/AniScreenshot.png';
+import Revival from '/RevivalScreenshot.png';
 import Audio from '/AudioScreenshot.png';
 import Grocery from '/GroceryStoreManagementSystem.png';
 import Movies from '/MovieProject.png';
@@ -10,8 +10,8 @@ import Portfolio from '/Portfolio.png'
 export const FreeScreenshots = [
     {
         id: 1,
-        title: 'Swiss 40%',
-        image: Swiss40,
+        title: 'Kris Kurzawa Guitar',
+        image: Kris,
         gitLink: 'https://github.com/KKurzawa/kris-kurzawa-guitar',
         siteLink: 'https://kris-kurzawa-guitar.vercel.app/'
     },

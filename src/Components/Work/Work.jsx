@@ -11,7 +11,7 @@ const Work = () => {
             </header>
             <section>
                 {/* small */}
-                <h2 className='projects-header md:hidden text-center text-2xl pb-1'>Aceites en concentracion del 5% 10% 15%</h2>
+                <h2 className='projects-header md:hidden text-center text-2xl pb-1'>Aceites en concentracion del 20% 30% 40%</h2>
                 <main className='md:hidden flex flex-row justify-evenly w-full pb-5 text-sm md:text-[.6rem]'>
                     <article className='work-container text-center w-5/12'>
                         {FreeScreenshots.map((item, index) => index % 2 === 0 && (
@@ -44,7 +44,7 @@ const Work = () => {
                         ))}
                     </article>
                 </main>
-                <h2 className='projects-header md:hidden text-center pb-1 text-2xl'>Aceites en concentracion del 20% 30% 40%</h2>
+                <h2 className='projects-header md:hidden text-center pb-1 text-2xl'>Aceites en concentracion del 5% 10% 20%</h2>
                 <main className='md:hidden flex flex-row justify-evenly w-full text-sm md:text-[.6rem]'>
                     <article className='work-container text-center w-5/12'>
                         {BootScreenshots.map((item, index) => index % 2 === 0 && (
