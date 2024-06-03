@@ -1,5 +1,5 @@
 import Swiss40 from '/Swiss-cbd-40.png';
-import Ani from '/AniScreenshot.png';
+import Ani from '/Alchemy-40%.png';
 import Revival from '/Gorilla-cbd-40.png';
 import Audio from '/AudioScreenshot.png';
 import Grocery from '/GroceryStoreManagementSystem.png';
