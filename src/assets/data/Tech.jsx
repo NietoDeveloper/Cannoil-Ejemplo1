@@ -11,7 +11,6 @@ import { SiMongoose } from "react-icons/si";
 import { SiExpress } from "react-icons/si";
 import { SiVite } from "react-icons/si";
 
-
 export const Tech = [
     {
         id: 1,

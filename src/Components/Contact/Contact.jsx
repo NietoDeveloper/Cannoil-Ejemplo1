@@ -3,7 +3,7 @@ import { useState } from 'react';
 import emailjs from '@emailjs/browser';
 import { validateEmail } from '../../Utils/Helpers';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
-import KrisKurzawaPic from '/BotellaHoja.png';
+import KrisKurzawaPic from '/FlorNegro.png';
 
 const Contact = () => {
     const [name, setName] = useState('');

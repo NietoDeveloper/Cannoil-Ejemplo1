@@ -1,11 +1,11 @@
 import Alchemy40 from '/Alchemy-40.png';
 import Gorilla40 from '/Gorilla-40.png';
 import PlantOfLife40conCoco from '/PlantOfLife-40-conCoco.png';
-import SwissCBD40 from '/Swiss-cbd-40.png';
-import Grocery from '/GroceryStoreManagementSystem.png';
-import Movies from '/MovieProject.png';
-import WeatherDashboard from '/WeatherDashboard.png'
-import Portfolio from '/Portfolio.png'
+import Swiss40 from '/SwissCBD40.png';
+import Grocery from '/FoliuMed10.png';
+import Movies from '/Alchemy-20.png';
+import WeatherDashboard from '/PlantOfLife-20.png'
+import Portfolio from '/Swiss20.png'
 
 export const FreeScreenshots = [
     {
@@ -25,7 +25,7 @@ export const FreeScreenshots = [
     {
         id: 3,
         title: 'Swiss CBD 40%',
-        image: SwissCBD40,
+        image: Swiss40,
         gitLink: 'https://github.com/KKurzawa/AudioPlayer',
         siteLink: 'https://audio-player-ten-eta.vercel.app/'
     },

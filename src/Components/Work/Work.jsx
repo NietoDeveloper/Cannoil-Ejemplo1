@@ -44,7 +44,7 @@ const Work = () => {
                         ))}
                     </article>
                 </main>
-                <h2 className='projects-header md:hidden text-center pb-1 text-2xl'>Aceite CBD al 5% 10% 20% De Concentracion</h2>
+                <h2 className='projects-header md:hidden text-center pb-1 text-2xl'>Aceite CBD al 10% 15% 20% De Concentracion</h2>
                 <main className='md:hidden flex flex-row justify-evenly w-full text-sm md:text-[.6rem]'>
                     <article className='work-container text-center w-5/12'>
                         {BootScreenshots.map((item, index) => index % 2 === 0 && (
@@ -71,7 +71,7 @@ const Work = () => {
                                 </button>
                                 <button onClick={() => setTimeout(() =>
                                     window.open(item.gitLink, '_blank')
-                                    , 500)} className='git-repos flex justify-center w-full'><i className='flex items-center'><span>230.000 $</span></i>
+                                    , 500)} className='git-repos flex justify-center w-full'><i className='flex items-center'><span>250.000 $</span></i>
                                 </button>
                             </section>
                         ))}
@@ -106,7 +106,7 @@ const Work = () => {
                         </button>
                         <button onClick={() => setTimeout(() =>
                             window.open(item.gitLink, '_blank')
-                            , 500)} className='git-repos'><i className='flex items-center'><span>230.000 $</span></i>
+                            , 500)} className='git-repos'><i className='flex items-center'><span>250.000 $</span></i>
                         </button>
                     </article>
                 ))}
