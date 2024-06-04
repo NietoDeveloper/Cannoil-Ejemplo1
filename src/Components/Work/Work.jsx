@@ -11,7 +11,7 @@ const Work = () => {
             </header>
             <section>
                 {/* small */}
-                <h2 className='projects-header md:hidden text-center text-2xl pb-1'>Aceite CBD al 20%, 30%, 40% De Concentracion</h2>
+                <h2 className='projects-header md:hidden text-center text-2xl pb-1'>Aceite CBD al 25%, 30%, 40% De Concentracion</h2>
                 <main className='md:hidden flex flex-row justify-evenly w-full pb-5 text-sm md:text-[.6rem]'>
                     <article className='work-container text-center w-5/12'>
                         {FreeScreenshots.map((item, index) => index % 2 === 0 && (
@@ -23,7 +23,7 @@ const Work = () => {
                                 </button>
                                 <button onClick={() => setTimeout(() =>
                                     window.open(item.gitLink, '_blank')
-                                    , 500)} className='git-repos flex justify-center w-full'><i className='flex items-center'><FaGithub /><span>&nbsp;Repo</span></i>
+                                    , 500)} className='git-repos flex justify-center w-full'><i className='flex items-center'><span>530.000 $</span></i>
                                 </button>
                             </section>
                         ))}
@@ -38,7 +38,7 @@ const Work = () => {
                                 </button>
                                 <button onClick={() => setTimeout(() =>
                                     window.open(item.gitLink, '_blank')
-                                    , 500)} className='git-repos flex justify-center w-full'><i className='flex items-center'><FaGithub /><span>&nbsp;Repo</span></i>
+                                    , 500)} className='git-repos flex justify-center w-full'><i className='flex items-center'><span>550.000 $</span></i>
                                 </button>
                             </section>
                         ))}
@@ -56,7 +56,7 @@ const Work = () => {
                                 </button>
                                 <button onClick={() => setTimeout(() =>
                                     window.open(item.gitLink, '_blank')
-                                    , 500)} className='git-repos flex justify-center w-full'><i className='flex items-center'><FaGithub /><span>&nbsp;Repo</span></i>
+                                    , 500)} className='git-repos flex justify-center w-full'><i className='flex items-center'><span>150.000 $</span></i>
                                 </button>
                             </section>
                         ))}
@@ -71,7 +71,7 @@ const Work = () => {
                                 </button>
                                 <button onClick={() => setTimeout(() =>
                                     window.open(item.gitLink, '_blank')
-                                    , 500)} className='git-repos flex justify-center w-full'><i className='flex items-center'><FaGithub /><span>&nbsp;Repo</span></i>
+                                    , 500)} className='git-repos flex justify-center w-full'><i className='flex items-center'><span>230.000 $</span></i>
                                 </button>
                             </section>
                         ))}
