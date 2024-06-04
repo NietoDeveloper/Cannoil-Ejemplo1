@@ -1,5 +1,5 @@
-import Alchemy1 from '/Alchemy-40.png';
-import Ani from '/Gorilla-40.png';
+import Alchemy40 from '/Alchemy-40.png';
+import Gorilla40 from '/Gorilla-40.png';
 import Revival from '/PlantOfLife-40-conCoco.png';
 import Audio from '/Swiss-cbd-40.png';
 import Grocery from '/GroceryStoreManagementSystem.png';
@@ -11,7 +11,7 @@ export const FreeScreenshots = [
     {
         id: 1,
         title: 'Alchemy CBD 40% ',
-        image: Alchemy1,
+        image: Alchemy40,
         gitLink: 'https://github.com/KKurzawa/kris-kurzawa-guitar',
         siteLink: 'https://kris-kurzawa-guitar.vercel.app/'
     },
@@ -32,7 +32,7 @@ export const FreeScreenshots = [
     {
         id: 4,
         title: 'Gorilla CBD 40%',
-        image: Ani,
+        image: Gorilla40,
         gitLink: 'https://github.com/KKurzawa/Ani-Difranco-Transcriptions',
         siteLink: 'https://anidifrancotranscriptions.vercel.app/'
     },

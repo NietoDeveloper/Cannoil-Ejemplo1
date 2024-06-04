@@ -90,7 +90,7 @@ const Work = () => {
                         </button>
                         <button onClick={() => setTimeout(() =>
                             window.open(item.gitLink, '_blank')
-                            , 500)} className='git-repos'><i className='flex items-center'><FaGithub /><span>&nbsp;Repo</span></i>
+                            , 500)} className='git-repos'><i className='flex items-center'><span>150.000 $</span></i>
                         </button>
                     </article>
                 ))}
@@ -106,7 +106,7 @@ const Work = () => {
                         </button>
                         <button onClick={() => setTimeout(() =>
                             window.open(item.gitLink, '_blank')
-                            , 500)} className='git-repos'><i className='flex items-center'><FaGithub /><span>&nbsp;Repo</span></i>
+                            , 500)} className='git-repos'><i className='flex items-center'><span>230.000 $</span></i>
                         </button>
                     </article>
                 ))}
