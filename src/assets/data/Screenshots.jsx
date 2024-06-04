@@ -1,7 +1,7 @@
 import Alchemy40 from '/Alchemy-40.png';
 import Gorilla40 from '/Gorilla-40.png';
-import Revival from '/PlantOfLife-40-conCoco.png';
-import Audio from '/Swiss-cbd-40.png';
+import PlantOfLife40conCoco from '/PlantOfLife-40-conCoco.png';
+import SwissCBD40 from '/Swiss-cbd-40.png';
 import Grocery from '/GroceryStoreManagementSystem.png';
 import Movies from '/MovieProject.png';
 import WeatherDashboard from '/WeatherDashboard.png'
@@ -18,14 +18,14 @@ export const FreeScreenshots = [
     {
         id: 2,
         title: 'Plant Of Life CBD 40% con Coco',
-        image: Revival,
+        image: PlantOfLife40conCoco,
         gitLink: 'https://github.com/KKurzawa/revival-frontend2/tree/main',
         siteLink: 'https://www.revivalbanddetroit.com/'
     },
     {
         id: 3,
         title: 'Swiss CBD 40%',
-        image: Audio,
+        image: SwissCBD40,
         gitLink: 'https://github.com/KKurzawa/AudioPlayer',
         siteLink: 'https://audio-player-ten-eta.vercel.app/'
     },
