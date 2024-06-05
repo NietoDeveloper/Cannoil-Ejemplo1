@@ -2,10 +2,10 @@ import Alchemy40 from '/Alchemy-40.png';
 import Gorilla40 from '/Gorilla-40.png';
 import PlantOfLife40conCoco from '/PlantOfLife-40-conCoco.png';
 import Swiss40 from '/SwissCBD40.png';
-import Grocery from '/FoliuMed10.png';
+import PlantOfLife from '/PlantOfLife-20.png';
 import Movies from '/Alchemy-20.png';
-import WeatherDashboard from '/PlantOfLife-20.png'
-import Portfolio from '/Swiss20.png'
+import FoliuMed10 from '/FoliuMed10.png'
+import Swiss20 from '/Swiss20.png'
 
 export const FreeScreenshots = [
     {
@@ -41,22 +41,22 @@ export const FreeScreenshots = [
 export const BootScreenshots = [
     {
         id: 1,
-        title: 'Grocery Store',
-        image: Grocery,
+        title: 'Plant Of Life CBD 20%',
+        image: FoliuMed10,
         gitLink: 'https://github.com/KKurzawa/Grocery-Store-Employee-Management-System?tab=readme-ov-file',
         siteLink: 'https://secure-gorge-43395-b510f5266de9.herokuapp.com/'
     },
     {
         id: 2,
         title: 'Movies',
-        image: Movies,
+        image: PlantOfLife,
         gitLink: 'https://github.com/KKurzawa/Movie-Project',
         siteLink: 'https://kkurzawa.github.io/Movie-Project/'
     },
     {
         id: 3,
-        title: 'Weather Dashboard',
-        image: WeatherDashboard,
+        title: 'Swiss CBD 20',
+        image: Swiss20,
         gitLink: 'https://github.com/KKurzawa/Weather-Dashboard',
         siteLink: 'https://kkurzawa.github.io/Weather-Dashboard/'
     },
