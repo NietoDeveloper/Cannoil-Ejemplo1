@@ -79,22 +79,6 @@ const Work = () => {
                 </main>
             </section>
             {/* medium and large */}
-            <h2 className='projects-header hidden md:block text-center pb-3 text-2xl'>Aceites en concentracion del 5% 10% 15%</h2>
-            <main className='hidden md:flex justify-evenly pb-5 text-md lg:text-xl'>
-                {FreeScreenshots.map((item) => (
-                    <article key={item.id} className='work-container flex flex-col justify-center items-center'>
-                        <h2>{item.title}</h2>
-                        <button onClick={() => setTimeout(() =>
-                            window.open(item.siteLink, '_blank')
-                            , 500)} ><LazyLoadImage src={item.image} alt='project image' className='work-pics md:w-44 lg:w-56 my-1' />
-                        </button>
-                        <button onClick={() => setTimeout(() =>
-                            window.open(item.gitLink, '_blank')
-                            , 500)} className='git-repos'><i className='flex items-center'><span>150.000 $</span></i>
-                        </button>
-                    </article>
-                ))}
-            </main>
             <h2 className='projects-header hidden md:block text-center pb-3 text-2xl'>Aceites en concentracion del 20% 30% 40%</h2>
             <main className='hidden md:flex justify-evenly text-md lg:text-xl'>
                 {BootScreenshots.map((item) => (
@@ -107,6 +91,22 @@ const Work = () => {
                         <button onClick={() => setTimeout(() =>
                             window.open(item.gitLink, '_blank')
                             , 500)} className='git-repos'><i className='flex items-center'><span>250.000 $</span></i>
+                        </button>
+                    </article>
+                ))}
+            </main>
+            <h2 className='projects-header hidden md:block text-center pb-3 text-2xl'>Aceites en concentracion del 10% 15% 20%</h2>
+            <main className='hidden md:flex justify-evenly pb-5 text-md lg:text-xl'>
+                {FreeScreenshots.map((item) => (
+                    <article key={item.id} className='work-container flex flex-col justify-center items-center'>
+                        <h2>{item.title}</h2>
+                        <button onClick={() => setTimeout(() =>
+                            window.open(item.siteLink, '_blank')
+                            , 500)} ><LazyLoadImage src={item.image} alt='project image' className='work-pics md:w-44 lg:w-56 my-1' />
+                        </button>
+                        <button onClick={() => setTimeout(() =>
+                            window.open(item.gitLink, '_blank')
+                            , 500)} className='git-repos'><i className='flex items-center'><span>150.000 $</span></i>
                         </button>
                     </article>
                 ))}
