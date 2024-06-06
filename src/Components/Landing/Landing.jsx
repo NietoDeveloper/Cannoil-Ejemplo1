@@ -1,5 +1,5 @@
 import './Landing.css';
-import Logo from '/navLogo.png'
+import Logo from '/FlorNegro.png'
 
 const Landing = () => {
     return (
