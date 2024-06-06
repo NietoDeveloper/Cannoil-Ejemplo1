@@ -2,8 +2,8 @@ import Alchemy40 from '/Alchemy-40.png';
 import Gorilla40 from '/Gorilla-40.png';
 import PlantOfLife40conCoco from '/PlantOfLife-40-conCoco.png';
 import Swiss40 from '/SwissCBD40.png';
-import PlantOfLife from '/PlantOfLife-20.png';
-import Movies from '/Alchemy-20.png';
+import PlantOfLife20 from '/PlantOfLife-20.png';
+import Alchemy20 from '/Alchemy-20.png';
 import FoliuMed10 from '/FoliuMed10.png'
 import Swiss20 from '/Swiss20.png'
 
@@ -41,29 +41,29 @@ export const FreeScreenshots = [
 export const BootScreenshots = [
     {
         id: 1,
-        title: 'Plant Of Life CBD 20%',
+        title: 'Foliu Med CBD 10%',
         image: FoliuMed10,
         gitLink: 'https://github.com/KKurzawa/Grocery-Store-Employee-Management-System?tab=readme-ov-file',
         siteLink: 'https://secure-gorge-43395-b510f5266de9.herokuapp.com/'
     },
     {
         id: 2,
-        title: 'Movies',
-        image: PlantOfLife,
+        title: 'Plant Of Life CBD 20%',
+        image: PlantOfLife20,
         gitLink: 'https://github.com/KKurzawa/Movie-Project',
         siteLink: 'https://kkurzawa.github.io/Movie-Project/'
     },
     {
         id: 3,
-        title: 'Swiss CBD 20',
+        title: 'Swiss CBD 20%',
         image: Swiss20,
         gitLink: 'https://github.com/KKurzawa/Weather-Dashboard',
         siteLink: 'https://kkurzawa.github.io/Weather-Dashboard/'
     },
     {
         id: 4,
-        title: 'React Portfolio',
-        image: Portfolio,
+        title: 'Alchemy CBD 20%',
+        image: Alchemy20,
         gitLink: 'https://github.com/KKurzawa/React-Full-Stack-Portfolio',
         siteLink: 'https://immense-everglades-74554-f9bad473782a.herokuapp.com/'
     },
