@@ -55,7 +55,7 @@ const Techs = () => {
             </main>
             {/* md and lg */}
             <main className='hidden md:flex flex-col pb-10'>
-                <h2 className='tech-header text-center pb-3 text-3xl font-bold'>Tech I Use</h2>
+                <h2 className='tech-header text-center pb-3 text-3xl font-bold'>Nuestras Marcas</h2>
                 <section className='flex flex-row justify-evenly flex-wrap pb-16'>
                     {Tech.map((item) => item.id < 7 && (
                         <article key={item.id} className='tech-icons-title text-center'>
