@@ -7,11 +7,21 @@ export const Navlinks = [
     {
         id: 2,
         title: 'Compra',
-        link: '#Tech'
+        link: '#'
     },
     {
         id: 3,
         title: 'Envio',
+        link: '#'
+    },
+    {
+        id: 4,
+        title: 'Contacto',
         link: '#contact'
+    },
+    {
+        id: 5,
+        title: 'Marcas',
+        link: '#Tech'
     }
 ]
