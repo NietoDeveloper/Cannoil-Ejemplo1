@@ -4,14 +4,13 @@
 }
 
 .pic-container {
-    background-color: var(--red-color-one);
+    background-color: var(--black-color);
     border-color: var(--yellow-color-one);
 }
 
 img.kris {
-    border: 1px solid var(--yellow-color-two);
-    border-radius: 5px;
-    filter: sepia(.3);
+    border: 1px solid var(--yellow-color-one);
+    border-radius: 10px;
 }
 
 .res-cer-btn {

@@ -3,7 +3,7 @@ import { useState } from 'react';
 import emailjs from '@emailjs/browser';
 import { validateEmail } from '../../Utils/Helpers';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
-import KrisKurzawaPic from '/FlorNegro.png';
+import KrisKurzawaPic from '/LogoCannOil-2.png';
 
 const Contact = () => {
     const [name, setName] = useState('');
@@ -53,10 +53,10 @@ const Contact = () => {
                     <section className='flex justify-evenly p-2 w-full'>
                         <button onClick={() => setTimeout(() =>
                             window.open('/KrisKurzawaResume.pdf', '__blank')
-                            , 500)} className='res-cer-btn text-md'>View My Resume</button>
+                            , 500)} className='res-cer-btn text-md'>Beneficios a la Salud</button>
                         <button onClick={() => setTimeout(() =>
                             window.open('/MSUCertificateofCompletion.pdf', '__blank')
-                            , 500)} className='res-cer-btn text-md'>View My Certificate</button>
+                            , 500)} className='res-cer-btn text-md'>Tratamientos</button>
                     </section>
                 </section>
                 <form onSubmit={handleSubmit} className='email-form flex flex-col items-center  w-full h-fit md:w-2/3 md:h-full lg:px-10 border-t-[2px] md:border-t-0 md:border-l-[4px]'>
