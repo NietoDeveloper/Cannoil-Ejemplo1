@@ -61,25 +61,25 @@ const Contact = () => {
                 </section>
                 <form onSubmit={handleSubmit} className='email-form flex flex-col items-center  w-full h-fit md:w-2/3 md:h-full lg:px-10 border-t-[2px] md:border-t-0 md:border-l-[4px]'>
                     <article className='flex flex-col w-4/5 md:w-3/4 pt-5'>
-                        <h2 className="drop-me-a-line w-3/4 pb-1 text-3xl lg:text-3xl font-bold">Drop Me A Line</h2>
+                        <h2 className="drop-me-a-line w-3/4 pb-1 text-3xl lg:text-3xl font-bold">Mensaje A CannOil</h2>
                         <input
                             className='input'
                             type='text'
-                            placeholder='Your Name'
+                            placeholder='Tu Nombre'
                             value={name}
                             onChange={(e) => setName(e.target.value)}
                         />
                         <input
                             className='input'
                             type='email'
-                            placeholder='Your Email'
+                            placeholder='Tu Email'
                             value={email}
                             onChange={(e) => setEmail(e.target.value)}
                         />
                         <input
                             className='input'
                             type='subject'
-                            placeholder='Subject'
+                            placeholder='Asunto'
                             value={subject}
                             onChange={(e) => setSubject(e.target.value)}
                         />
@@ -87,18 +87,18 @@ const Contact = () => {
                             className='input'
                             cols='30'
                             rows='5'
-                            placeholder='Message'
+                            placeholder='Mensaje'
                             value={message}
                             onChange={(e) => setMessage(e.target.value)}
                         >
                         </textarea>
                         <section className='hidden md:flex justify-between items-center'>
-                            <button className='submit-btn md:mb-0 md:w-32 bg-[#100607]' type='submit'>Submit</button>
+                            <button className='submit-btn md:mb-0 md:w-32 bg-[#100607]' type='submit'>Enviar</button>
                             {errorMessage && (
                                 <p className="error-text text-xl lg:text-2xl">{errorMessage}</p>
                             )}
                         </section>
-                        <button className='md:hidden submit-btn w-32 mb-5 md:mb-0 md:w-32 bg-[#100607]' type='submit'>Submit</button>
+                        <button className='md:hidden submit-btn w-32 mb-5 md:mb-0 md:w-32 bg-[#100607]' type='submit'>Enviar</button>
                     </article>
                     {errorMessage && (
                         <p className="error-text md:hidden text-center mb-5 text-xl lg:text-2xl">{errorMessage}</p>
