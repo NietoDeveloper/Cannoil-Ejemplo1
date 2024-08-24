@@ -20,11 +20,8 @@ const Footer = () => {
                 <h2 className='mailto-link mb-1 md:mb-3'> <button onClick={() => setTimeout(() =>
                     window.open('mailto:NietoSoftWareDeveloper@outlookcom')
                     , 500)} >Email CannOil</button></h2>
-                <h2 className='phone-link mb-1 md:mb-3'><button onClick={() => setTimeout(() =>
-                    window.open('tel:2485682806')
-                    , 500)} >Mensaje Texto a CannOil</button></h2>
-                <p className='mb-1 md:mb-3'>CopyRights &copy; {today.getFullYear()} Todos Los Derechos Reservados</p>
-                <h2 className='webdev-link mb-4 md:mb-8'>Diseñado y Consruido por Nieto SoftWare Developer</h2>
+                <p className='mb-1 md:mb-3'>CopyRights &copy; {today.getFullYear()} Bogota Colombia</p>
+                <h2 className='webdev-link mb-4 md:mb-8'>Nieto Software Developer</h2>
             </article>
 
         </footer>

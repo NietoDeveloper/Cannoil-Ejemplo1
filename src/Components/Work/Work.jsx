@@ -6,11 +6,11 @@ const Work = () => {
     return (
         <main className='work-main pt-5 md:pt-10 pb-10 border-t-[3px] md:border-t-0'>
             <header id='Work' className='flex flex-col items-center'>
-                <h1 className='work-header text-3xl'>Productos</h1>
+                <h1 className='work-header text-3xl'>Aceites CBD</h1>
             </header>
             <section>
                 {/* small */}
-                <h2 className='projects-header md:hidden text-center text-2xl pb-1'>Aceite CBD al 25%, 30%, 40% De Concentracion</h2>
+                <h2 className='projects-header md:hidden text-center text-2xl pb-1'>Extracto De Flores De Cannabis</h2>
                 <main className='md:hidden flex flex-row justify-evenly w-full pb-5 text-sm md:text-[.6rem]'>
                     <article className='work-container text-center w-5/12'>
                         {FreeScreenshots.map((item, index) => index % 2 === 0 && (
@@ -22,7 +22,7 @@ const Work = () => {
                                 </button>
                                 <button onClick={() => setTimeout(() =>
                                     window.open(item.gitLink, '_blank')
-                                    , 500)} className='git-repos flex justify-center w-full'><i className='flex items-center'><span>530.000 $</span></i>
+                                    , 500)} className='git-repos flex justify-center w-full'><i className='flex items-center'><span>Producto Colombo-Aleman</span></i>
                                 </button>
                             </section>
                         ))}
@@ -37,13 +37,13 @@ const Work = () => {
                                 </button>
                                 <button onClick={() => setTimeout(() =>
                                     window.open(item.gitLink, '_blank')
-                                    , 500)} className='git-repos flex justify-center w-full'><i className='flex items-center'><span>550.000 $</span></i>
+                                    , 500)} className='git-repos flex justify-center w-full'><i className='flex items-center'><span>Producto Importado</span></i>
                                 </button>
                             </section>
                         ))}
                     </article>
                 </main>
-                <h2 className='projects-header md:hidden text-center pb-1 text-2xl'>Aceite CBD al 10% 15% 20% De Concentracion</h2>
+                <h2 className='projects-header md:hidden text-center pb-1 text-2xl'>Aceites De CBD En Concentracion Del 10% 15% 20% 25% 30% 40%</h2>
                 <main className='md:hidden flex flex-row justify-evenly w-full text-sm md:text-[.6rem]'>
                     <article className='work-container text-center w-5/12'>
                         {BootScreenshots.map((item, index) => index % 2 === 0 && (
@@ -55,7 +55,7 @@ const Work = () => {
                                 </button>
                                 <button onClick={() => setTimeout(() =>
                                     window.open(item.gitLink, '_blank')
-                                    , 500)} className='git-repos flex justify-center w-full'><i className='flex items-center'><span>150.000 $</span></i>
+                                    , 500)} className='git-repos flex justify-center w-full'><i className='flex items-center'><span>Producto Importado</span></i>
                                 </button>
                             </section>
                         ))}
@@ -70,7 +70,7 @@ const Work = () => {
                                 </button>
                                 <button onClick={() => setTimeout(() =>
                                     window.open(item.gitLink, '_blank')
-                                    , 500)} className='git-repos flex justify-center w-full'><i className='flex items-center'><span>250.000 $</span></i>
+                                    , 500)} className='git-repos flex justify-center w-full'><i className='flex items-center'><span>Producto Importado</span></i>
                                 </button>
                             </section>
                         ))}
@@ -78,7 +78,7 @@ const Work = () => {
                 </main>
             </section>
             {/* medium and large */}
-            <h2 className='projects-header hidden md:block text-center pb-3 text-2xl'>Aceites en concentracion del 10% 15% 20%</h2>
+            <h2 className='projects-header hidden md:block text-center pb-3 text-2xl'>Extracto De Flores De Cannabis</h2>
             <main className='hidden md:flex justify-evenly pb-5 text-md lg:text-xl'>
                 {FreeScreenshots.map((item) => (
                     <article key={item.id} className='work-container flex flex-col justify-center items-center'>
@@ -89,12 +89,12 @@ const Work = () => {
                         </button>
                         <button onClick={() => setTimeout(() =>
                             window.open(item.gitLink, '_blank')
-                            , 500)} className='git-repos'><i className='flex items-center'><span>150.000 $</span></i>
+                            , 500)} className='git-repos'><i className='flex items-center'><span>Producto Colombo-Aleman</span></i>
                         </button>
                     </article>
                 ))}
             </main>
-            <h2 className='projects-header hidden md:block text-center pb-3 text-2xl'>Aceites en concentracion del 20% 25% 30% 40%</h2>
+            <h2 className='projects-header hidden md:block text-center pb-3 text-2xl'>Aceites De CBD En Concentracion Del 10% 15% 20% 25% 30% 40%</h2>
             <main className='hidden md:flex justify-evenly text-md lg:text-xl'>
                 {BootScreenshots.map((item) => (
                     <article key={item.id} className='work-container flex flex-col justify-center items-center'>
@@ -105,7 +105,7 @@ const Work = () => {
                         </button>
                         <button onClick={() => setTimeout(() =>
                             window.open(item.gitLink, '_blank')
-                            , 500)} className='git-repos'><i className='flex items-center'><span>250.000 $</span></i>
+                            , 500)} className='git-repos'><i className='flex items-center'><span>Producto Importado</span></i>
                         </button>
                     </article>
                 ))}
