@@ -52,10 +52,10 @@ const Contact = () => {
                     <LazyLoadImage src={KrisKurzawaPic} className='kris w-10/12 h-auto mt-6 md:mt-0' />
                     <section className='flex justify-evenly p-2 w-full'>
                         <button onClick={() => setTimeout(() =>
-                            window.open('/KrisKurzawaResume.pdf', '__blank')
+                            window.open('/', '__blank')
                             , 500)} className='res-cer-btn text-md'>Beneficios a la Salud</button>
                         <button onClick={() => setTimeout(() =>
-                            window.open('/MSUCertificateofCompletion.pdf', '__blank')
+                            window.open('/', '__blank')
                             , 500)} className='res-cer-btn text-md'>Tratamientos</button>
                     </section>
                 </section>
