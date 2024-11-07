@@ -12,29 +12,29 @@ export const FreeScreenshots2 = [
       id: 1,
       title: 'Alchemy CBD 40% ',
       image: LogoGorilla,
-      gitLink: 'https://github.com/KKurzawa/kris-kurzawa-guitar',
-      siteLink: 'https://kris-kurzawa-guitar.vercel.app/'
+      gitLink: 'https://',
+      siteLink: 'https://'
   },
   {
     id: 2,
     title: 'Plant Of Life CBD 40% con Coco',
     image: LogoCBDAlchemy,
-    gitLink: 'https://github.com/KKurzawa/revival-frontend2/tree/main',
-    siteLink: 'https://www.revivalbanddetroit.com/'
+    gitLink: 'https://',
+    siteLink: 'https://'
 },
 {
     id: 3,
     title: 'Swiss CBD 40%',
     image: LogoCatalana,
-    gitLink: 'https://github.com/KKurzawa/AudioPlayer',
-    siteLink: 'https://audio-player-ten-eta.vercel.app/'
+    gitLink: 'https://',
+    siteLink: 'https://'
 },
 {
     id: 4,
     title: 'Gorilla CBD 40%',
     image: LogoHappyGarden,
-    gitLink: 'https://github.com/KKurzawa/Ani-Difranco-Transcriptions',
-    siteLink: 'https://anidifrancotranscriptions.vercel.app/'
+    gitLink: 'https://',
+    siteLink: 'https://'
 },
 ]
 
@@ -43,28 +43,28 @@ export const BootScreenshots2 = [
     id: 1,
     title: 'Foliu Med CBD 10%',
     image: LogoSwissFX ,
-    gitLink: 'https://github.com/KKurzawa/Grocery-Store-Employee-Management-System?tab=readme-ov-file',
-    siteLink: 'https://secure-gorge-43395-b510f5266de9.herokuapp.com/'
+    gitLink: 'https://',
+    siteLink: 'https://'
 },
 {
     id: 2,
     title: 'Plant Of Life CBD 20%',
     image: LogoSensitive ,
-    gitLink: 'https://github.com/KKurzawa/Movie-Project',
-    siteLink: 'https://kkurzawa.github.io/Movie-Project/'
+    gitLink: 'https://',
+    siteLink: 'https://'
 },
 {
     id: 3,
     title: 'Swiss CBD 20%',
     image: LogoFoliuMed,
-    gitLink: 'https://github.com/KKurzawa/Weather-Dashboard',
-    siteLink: 'https://kkurzawa.github.io/Weather-Dashboard/'
+    gitLink: 'https://',
+    siteLink: 'https://'
 },
 {
     id: 4,
     title: 'Alchemy CBD 20%',
     image: LogoAmazonia,
-    gitLink: 'https://github.com/KKurzawa/React-Full-Stack-Portfolio',
-    siteLink: 'https://immense-everglades-74554-f9bad473782a.herokuapp.com/'
+    gitLink: 'https://',
+    siteLink: 'https://'
 },
 ]
