@@ -2,15 +2,10 @@ import  LogoGorilla  from '/LogoGorilla.png';
 import  LogoCBDAlchemy  from '/LogoCBDAlchemy.png';
 import  LogoCatalana  from '/LogoCatalana.png';
 import  LogoHappyGarden  from '/LogoHappyGarden.png';
-import  LogoCBDSide  from '/LogoCBDSide.png';
 import  LogoAmazonia from '/LogoAmazoniapng.png';
 import  LogoSwissFX  from '/LogoSwissFX.png';
 import  LogoSensitive from '/LogoSensitive.png';
-import  LogoTree  from '/LogoTree.png';
-import  LogoSmooth  from '/LogoSmooth.png';
-import  LogoPhexia  from '/LogoPhexia.png';
 import  LogoFoliuMed  from '/LogoFoliuMed.png';
-import  LogoNaturalSuit  from '/LogoNaturalSuit.png';
 
 export const FreeScreenshots2 = [
   {
