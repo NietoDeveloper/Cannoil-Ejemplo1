@@ -17,19 +17,19 @@ export const Tech = [
         id: 1,
         title: 'Javascript',
         icon: <DiJavascript />,
-        link: 'https://www.javascript.com/'
+        link: 'https://'
     },
     {
         id: 2,
         title: 'HTML',
         icon: <FaHtml5 />,
-        link: "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"
+        link: "https://"
     },
     {
         id: 3,
         title: 'CSS',
         icon: <FaCss3Alt />,
-        link: "https://developer.mozilla.org/en-US/docs/Web/CSS"
+        link: "https://"
     },
     {
         id: 4,
