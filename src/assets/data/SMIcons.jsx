@@ -7,16 +7,16 @@ export const icons = [
     {
         id: 4,
         symbol: <FaFacebook />,
-        link: 'https://www.facebook.com/KrisKurzawaGuitar',
+        link: 'https://www.facebook.com/',
     },
     {
         id: 5,
         symbol: <FaInstagramSquare />,
-        link: 'https://www.instagram.com/k_kurzawa/'
+        link: 'https://www.instagram.com/'
     },
     {
         id: 6,
         symbol: <FaYoutube />,
-        link: 'https://www.youtube.com/channel/UCosE-h5XuXSkR4dG_hBaCUg'
+        link: 'https://www.youtube.com/'
     }
 ]
