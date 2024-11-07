@@ -43,28 +43,28 @@ export const BootScreenshots = [
         id: 1,
         title: 'Alchemy Aceite CBD',
         image: Alchemy40,
-        gitLink: 'https://github.com/KKurzawa/Grocery-Store-Employee-Management-System?tab=readme-ov-file',
-        siteLink: 'https://secure-gorge-43395-b510f5266de9.herokuapp.com/'
+        gitLink: 'https://',
+        siteLink: 'https://'
     },
     {
         id: 2,
         title: 'Swiss FX Acite CBD',
         image: Swiss40,
-        gitLink: 'https://github.com/KKurzawa/Movie-Project',
-        siteLink: 'https://kkurzawa.github.io/Movie-Project/'
+        gitLink: 'https://',
+        siteLink: 'https://'
     },
     {
         id: 3,
         title: 'Boby Green Aceite CBD',
         image: BobyGreen,
-        gitLink: 'https://github.com/KKurzawa/Weather-Dashboard',
-        siteLink: 'https://kkurzawa.github.io/Weather-Dashboard/'
+        gitLink: 'https://',
+        siteLink: 'https://'
     },
     {
         id: 4,
         title: 'The Nature Aceite CBD',
         image: TheNatureAceiteCBD,
-        gitLink: 'https://github.com/KKurzawa/React-Full-Stack-Portfolio',
-        siteLink: 'https://immense-everglades-74554-f9bad473782a.herokuapp.com/'
+        gitLink: 'https://',
+        siteLink: 'https://'
     },
 ]
