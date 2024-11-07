@@ -12,29 +12,29 @@ export const FreeScreenshots = [
         id: 1,
         title: 'FoliuMed Aceite CBD, ',
         image: FoliuMed10,
-        gitLink: 'https://github.com/KKurzawa/kris-kurzawa-guitar',
-        siteLink: 'https://kris-kurzawa-guitar.vercel.app/'
+        gitLink: 'https://',
+        siteLink: 'https://'
     },
     {
         id: 2,
         title: 'Plant Of Life Aceite CBD',
         image: PlantOfLife40conCoco,
-        gitLink: 'https://github.com/KKurzawa/revival-frontend2/tree/main',
-        siteLink: 'https://www.revivalbanddetroit.com/'
+        gitLink: 'https://',
+        siteLink: 'https://'
     },
     {
         id: 3,
         title: 'Amazonia Aceite CBD' ,
         image: Amazonia30,
-        gitLink: 'https://github.com/KKurzawa/AudioPlayer',
-        siteLink: 'https://audio-player-ten-eta.vercel.app/'
+        gitLink: 'https://',
+        siteLink: 'https://'
     },
     {
         id: 4,
         title: 'Gorilla Grillz Aceite CBD',
         image: Gorilla40,
-        gitLink: 'https://github.com/KKurzawa/Ani-Difranco-Transcriptions',
-        siteLink: 'https://anidifrancotranscriptions.vercel.app/'
+        gitLink: 'https://',
+        siteLink: 'https://'
     },
 ]
 
