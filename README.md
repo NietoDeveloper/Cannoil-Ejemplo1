@@ -41,4 +41,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 License
 This project is licensed under the MIT License.
 Contact
-Created by Manuel Nieto, Software Developer. For inquiries, reach out via GitHub.
+
+## Created by Manuel Nieto, NietoDeveloper. For inquiries, reach out via GitHub.
