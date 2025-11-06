@@ -12,7 +12,7 @@ PostCSS: CSS processing tool
 Tailwind CSS: Utility-first CSS framework
 Vite: Next-generation frontend tooling for fast development
 
-Features
+## Features
 
 Responsive design for seamless user experience across devices
 Product catalog showcasing health products
