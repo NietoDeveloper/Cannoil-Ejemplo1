@@ -19,7 +19,7 @@ Product catalog showcasing health products
 Shopping cart functionality
 Clean and modern UI with Tailwind CSS
 
-Installation
+## Installation
 
 Clone the repository:git clone https://github.com/NietoDeveloper/Cannoil-Ejemplo1.git
 
