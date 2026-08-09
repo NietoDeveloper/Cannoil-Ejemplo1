@@ -7,4 +7,3 @@ Cannoil E-Commerce is a model application for an online store specializing in he
 ## Technologies
 
 Node.js: Backend runtime environment
-React: Frontend library for building user interfaces
