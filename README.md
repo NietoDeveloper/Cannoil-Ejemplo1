@@ -14,4 +14,4 @@ Vite: Next-generation frontend tooling for fast development
 
 ## Features
 
-Responsive design for seamless user experience across devices
+Responsive design for seamless user experience across d
