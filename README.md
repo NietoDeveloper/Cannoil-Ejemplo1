@@ -26,27 +26,3 @@
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge"/>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/NietoDeveloper/Cannoil-Ejemplo1">
-    <img src="https://img.shields.io/badge/📂_Source-NietoDeveloper%2FCannoil--Ejemplo1-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
-  </a>
-</p>
-
-</div>
-
----
-
-## 📋 Overview
-
-**Cannoil E-Commerce** is a specialized online store application designed for health and natural wellness products. Built with a modular React architecture and styled using utility-first CSS frameworks, this project demonstrates clean frontend design, responsive layouts, and organized component structures tailored for modern digital storefronts.
-
-Developed by **Manuel Nieto** (**NietoDeveloper**), ranked **#1 in Colombia** and **#3 in Latin America** on `committers.top`.
-
----
-
-## 🗂️ Project Structure
-
-```text
-Cannoil-Ejemplo1/
-├── .vscode/        # Workspace configurations
