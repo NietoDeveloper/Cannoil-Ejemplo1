@@ -16,4 +16,3 @@ Vite: Next-generation frontend tooling for fast development
 
 Responsive design for seamless user experience across devices
 Product catalog showcasing health products
-Shopping cart functionality
