@@ -30,10 +30,6 @@ Navigate to the project directory:cd Cannoil-Ejemplo1
 Install dependencies:npm install
 
 
-Start the development server:npm run dev
-
-## Usage
-
 Open your browser and navigate to http://localhost:5173 to view the app.
 Explore the product catalog, add items to the cart, and experience the responsive design.
 
