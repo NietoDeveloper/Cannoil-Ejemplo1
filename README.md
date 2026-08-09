@@ -13,5 +13,3 @@ Tailwind CSS: Utility-first CSS framework
 Vite: Next-generation frontend tooling for fast development
 
 ## Features
-
-Responsive design for seamless user experience across d
