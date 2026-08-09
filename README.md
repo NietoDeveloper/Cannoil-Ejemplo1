@@ -21,5 +21,4 @@ Clean and modern UI with Tailwind CSS
 
 ## Installation
 
-Clone the repository:git clone https://github.com/NietoDeveloper/Cannoil-Ejemplo1.gi
-
+Clone the repository:git clone https://github.com/NietoDeveloper/
