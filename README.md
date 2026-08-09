@@ -20,5 +20,4 @@ Shopping cart functionality
 Clean and modern UI with Tailwind CSS
 
 ## Installation
-
-Clone the repository:git clone https://github.com/NietoDeveloper/
+one the repository:git clone https://github.com/NietoDeveloper/
