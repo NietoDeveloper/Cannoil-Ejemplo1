@@ -30,11 +30,6 @@ Navigate to the project directory:cd Cannoil-Ejemplo1
 Install dependencies:npm install
 
 
-Open your browser and navigate to http://localhost:5173 to view the app.
-Explore the product catalog, add items to the cart, and experience the responsive design.
-
-## Contributing
-
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 License
 This project is licensed under the MIT License.
