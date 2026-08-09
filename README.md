@@ -23,4 +23,3 @@ Clean and modern UI with Tailwind CSS
 
 Clone the repository:git clone https://github.com/NietoDeveloper/Cannoil-Ejemplo1.gi
 
-Navigate to the project directory:cd Cannoil-Ejemplo1
