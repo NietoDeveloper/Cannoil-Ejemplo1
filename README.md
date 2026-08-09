@@ -30,6 +30,6 @@ Navigate to the project directory:cd Cannoil-Ejemplo1
 Install dependencies:npm install
 
 
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+Contributions are welcome! Please fork the repository and submit a pull with your changes.
 License
 This project is licensed under the MIT License.
