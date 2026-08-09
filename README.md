@@ -18,5 +18,4 @@ Responsive design for seamless user experience across devices
 Product catalog showcasing health products
 Shopping cart functionality
 Clean and modern UI with Tailwind CSS
-
-## Installationone the repository:git clone https://github.com/
+s
