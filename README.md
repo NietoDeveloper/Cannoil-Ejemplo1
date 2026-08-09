@@ -25,5 +25,3 @@ Clone the repository:git clone https://github.com/NietoDeveloper/Cannoil-Ejemplo
 
 
 Navigate to the project directory:cd Cannoil-Ejemplo1
-
-
