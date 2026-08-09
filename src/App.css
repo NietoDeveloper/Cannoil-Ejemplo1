@@ -7,7 +7,7 @@
   /* global styles  */
   scroll-behavior: smooth;
   font-style: normal;
-  height:min-content;
+  height: min-content;
   font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
@@ -33,23 +33,26 @@ body {
 }
 
 .main-app {
-	-webkit-animation: main-fade-in 1s linear both;
-	        animation: main-fade-in 1s linear both;
+  -webkit-animation: main-fade-in 1s linear both;
+  animation: main-fade-in 1s linear both;
 }
 
 @-webkit-keyframes main-fade-in {
-    0% {
-      opacity: 0;
-    }
-    100% {
-      opacity: 1;
-    }
+  0% {
+    opacity: 0;
   }
-  @keyframes main-fade-in {
-    0% {
-      opacity: 0;
-    }
-    100% {
-      opacity: 1;
-    }
+
+  100% {
+    opacity: 1;
   }
+}
+
+@keyframes main-fade-in {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
