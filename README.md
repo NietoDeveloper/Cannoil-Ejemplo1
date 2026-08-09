@@ -158,16 +158,3 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Manuel Nieto (NietoDeveloper)**
-Role: Full-Stack Software Engineer & Systems Architect
-Location: Bogotá, Colombia
-Rankings: #1 in Colombia & #3 in Latin America (committers.top)
-Portfolio: [manuelnieto.netlify.app](https://manuelnieto.netlify.app)
-GitHub: [@NietoDeveloper](https://github.com/NietoDeveloper)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
