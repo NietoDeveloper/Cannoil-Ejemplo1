@@ -9,4 +9,3 @@ Cannoil E-Commerce is a model application for an online store specializing in he
 Node.js: Backend runtime environment
 React: Frontend library for building user interfaces
 PostCSS: CSS processing tool
-Tailwind CSS: Utility-first CSS framework
