@@ -11,5 +11,3 @@ React: Frontend library for building user interfaces
 PostCSS: CSS processing tool
 Tailwind CSS: Utility-first CSS framework
 Vite: Next-generation frontend tooling for fast development
-
-## Features
