@@ -29,5 +29,3 @@ Navigate to the project directory:cd Cannoil-Ejemplo1
 
 Install dependencies:npm install
 
-
-s are welcome! Please fork the reposibmit a pull s 
