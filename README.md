@@ -35,4 +35,3 @@ License
 This project is licensed under the MIT License.
 Contact
 
-## Created by Manuel Nieto, NietoDeveloper. For inquiries, reach out via GitHub.
