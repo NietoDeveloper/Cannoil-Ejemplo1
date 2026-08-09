@@ -31,5 +31,4 @@ Install dependencies:npm install
 
 
 Contributions are welcome! Please fork the repository and submit a pull with your changes.
-License
-This project is licensed under the MIT License.
+oject is licensed under the MIT License.
