@@ -19,5 +19,4 @@ Product catalog showcasing health products
 Shopping cart functionality
 Clean and modern UI with Tailwind CSS
 
-## Installation
-one the repository:git clone https://github.com/NietoDeveloper/
+## Installationone the repository:git clone https://github.com/NietoDeveloper/
