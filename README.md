@@ -50,6 +50,3 @@ Developed by **Manuel Nieto** (**NietoDeveloper**), ranked **#1 in Colombia** an
 ```text
 Cannoil-Ejemplo1/
 ├── .vscode/        # Workspace configurations
-├── dist/           # Production build output
-├── public/         # Static public assets
-└── src/
